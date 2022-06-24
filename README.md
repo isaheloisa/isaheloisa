@@ -1,6 +1,6 @@
 - # sobre mim 
-- 👋 ola meu nome é @isaheloisa
-- 👍meu email de contato é isabella.heloisa.silva@escola.pr.gov.br
+- 👋 ola meu nome é **@isaheloisa
+- 👍meu email de contato é [email](isabella.heloisa.silva@escola.pr.gov.br)
 -  👀 eu estou interessado  em aprender a programar novas linguagens 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
 - 
